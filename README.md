@@ -23,9 +23,9 @@ Every automation tool today expects people to learn programming. We believe the 
 
 | Project | Access | What it does |
 |---------|--------|--------------|
-| 🖥️ **Abhaal** | 🔒Private | AI-powered desktop automation that learns by demonstration instead of programming. |
-| 🚀 **TeleDelivr AI** | 🔒Private | Automates payments, Telegram access delivery, and member management. |
-| 📰 **Lio2** | 🔒Private | News platform delivering concise 30-word summaries. |
+| 🖥️ **Abhaal** |🔒Private | AI-powered desktop automation that learns by demonstration instead of programming. |
+| 🚀 **TeleDelivr AI** |🔒Private | Automates payments, Telegram access delivery, and member management. |
+| 📰 **Lio2** |🔒Private | News platform delivering concise 30-word summaries. |
 | 📊 **Meta Interest Finder** | 🌍Public | MCP-compatible API for Meta Ads interests. |
 | 🎥 **Video Duration Calculator** | 🌍Public | Browser-based MP4 video duration calculator. |
 | 🌐 **AI Website Builder** | 🌍Public | Generate complete websites with AI. |
