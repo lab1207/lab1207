@@ -23,25 +23,13 @@ Every automation tool today expects people to learn programming. We believe the 
 
 ---
 
-## Featured Projects
+## Things I've Built
 
-### 🖥️ Abhaal
-AI-powered desktop automation that learns by demonstration instead of scripting.
-
-### 📊 Meta Interest Finder
-Search Meta (Facebook) advertising interests through a fast, secure MCP-compatible API.
-
-### 🎥 Video Duration Calculator
-Fast video duration calculation using MP4 metadata parsing with browser playback support.
-
-### 🌐 AI Website Builder
-Generate complete websites with AI and live preview.
-
-### 🚀 TeleDelivr AI
-Built a SaaS platform automating payments, Telegram access delivery, and member management for paid communities.
-
-### 📰 Lio2
-News platform delivering concise 30-word summaries of daily events.
+📊 Meta Interest Finder
+🎥 Video Duration Calculator
+🌐 AI Website Builder
+🚀 TeleDelivr AI (private)
+📰 Lio2 (private)
 
 ---
 
