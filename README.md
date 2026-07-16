@@ -8,7 +8,7 @@ Building AI-powered desktop automation that learns tasks by demonstration instea
 
 ## About Me
 
-I'm a self-taught software engineer and founder focused on making computer automation accessible to everyone.
+Self-taught software engineer building AI-powered desktop automation. I believe software should learn from people—not the other way around.
 
 Existing automation tools expect people to learn scripting or programming. I believe software should learn from people instead. At Abhaal, we're building AI that watches how users perform a task once, understands it, and repeats it automatically—completely offline.
 
@@ -17,6 +17,11 @@ Existing automation tools expect people to learn scripting or programming. I bel
 ## Current Mission
 
 > Make computers learn from people instead of requiring people to learn programming.
+
+---
+
+## Why Abhaal?
+Every automation tool today expects people to learn scripting. We believe the opposite approach wins: software should learn from people. Abhaal watches users perform a task once, understands the workflow, and repeats it automatically—completely offline.
 
 ---
 
@@ -52,34 +57,9 @@ News platform delivering concise 30-word summaries of daily events.
 
 ---
 
-## Tech Stack
-
-**Languages**
-
-JavaScript • TypeScript • HTML • CSS • SQL
-
-**Frameworks & Tools**
-
-Node.js • React • Express • MongoDB • Git • Vite
-
-**Interests**
-
-Artificial Intelligence • Desktop Automation • Computer Vision • AI Agents • Local AI • Workflow Automation
-
----
-
 ## Philosophy
 
 > Software should adapt to humans—not humans to software.
 
 ---
 
-## Find Me
-
-🌐 Website: https://www.abhaal.com
-
-💼 LinkedIn: https://www.linkedin.com/in/vaibhavhajare
-
----
-
-⭐ If you're interested in AI, desktop automation, or developer tools, feel free to explore my repositories.
