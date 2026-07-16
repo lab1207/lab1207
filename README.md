@@ -15,11 +15,7 @@ Every automation tool today expects people to learn programming. We believe the 
 
 ## Currently Building
 
-- 🖥️ Abhaal
-- 🤖 Desktop Automation
-- 👁️ Computer Vision
-- 🧠 Local AI
-- ⚡ AI Agents
+- 🖥️ Abhaal - 🤖 Desktop Automation - 👁️ Computer Vision - 🧠 Local AI - ⚡ AI Agents
 
 ---
 
