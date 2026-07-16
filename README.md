@@ -2,7 +2,7 @@
 
 Founder @ Abhaal
 
-Building AI-powered desktop automation that learns tasks by demonstration instead of programming.
+Building AI-powered desktop automation that learns tasks from demonstration instead of programming.
 
 > **Mission:** Make computers learn from people instead of requiring people to learn programming.
 
@@ -15,7 +15,7 @@ Every automation tool today expects people to learn programming. We believe the 
 
 ## Currently Building
 
-- 🖥️ Abhaal - 🤖 Desktop Automation - 👁️ Computer Vision - 🧠 Local AI - ⚡ AI Agents
+- 🖥️ Abhaal - 🤖 Desktop Automation - 👁️ Computer Vision - 🧠 Local AI
 
 ---
 
@@ -29,12 +29,4 @@ Every automation tool today expects people to learn programming. We believe the 
 | 📊 **Meta Interest Finder** | 🌍 Public | MCP-compatible API for Meta Ads interests. |
 | 🎥 **Video Duration Calculator** | 🌍 Public | Browser-based MP4 video duration calculator. |
 | 🌐 **AI Website Builder** | 🌍 Public | Generate complete websites with AI. |
-
----
-
-## Philosophy
-
-> Software should adapt to humans—not humans to software.
-
----
 
