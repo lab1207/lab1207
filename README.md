@@ -25,11 +25,29 @@ Every automation tool today expects people to learn programming. We believe the 
 
 ## Things I've Built
 
-📊 Meta Interest Finder
-🎥 Video Duration Calculator
-🌐 AI Website Builder
-🚀 TeleDelivr AI (private)
-📰 Lio2 (private)
+## Startups
+
+🖥️ **Abhaal** *(Private)*
+AI-powered desktop automation.
+
+🚀 **TeleDelivr AI** *(Private)*
+Automation platform for paid Telegram communities.
+
+📰 **Lio2** *(Private)*
+30-word news platform.
+
+---
+
+## Open Source
+
+📊 **Meta Interest Finder**
+Fast MCP-compatible API for Meta Ads interests.
+
+🎥 **Video Duration Calculator**
+Browser-based MP4 duration parser.
+
+🌐 **AI Website Builder**
+Generate websites with AI.
 
 ---
 
