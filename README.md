@@ -76,11 +76,9 @@ Artificial Intelligence • Desktop Automation • Computer Vision • AI Agents
 
 ## Find Me
 
-🌐 Website: https://abhaal.com
+🌐 Website: https://www.abhaal.com
 
 💼 LinkedIn: https://www.linkedin.com/in/vaibhavhajare
-
-📧 Building in public through code.
 
 ---
 
