@@ -4,7 +4,7 @@ Building desktop automation that learns tasks by demonstration and runs entirely
 > **Mission:** Make computers learn from people instead of requiring people to learn programming.
 ---
 ## Why Abhaal?
-Every automation tool today expects people to learn programming. We believe the opposite approach wins: software should learn from people. Abhaal watches you perform a task once, learns it, and repeats it automatically—completely offline.
+Every automation tool today expects people to learn programming. We believe the opposite approach wins: software should learn from people. Abhaal watches you perform a task once, learns it, and repeats it.
 
 **v0.1.16 shipped** · works fully offline · built solo in Rust — first line of production code: Nov 2025
 ---
@@ -14,7 +14,7 @@ Every automation tool today expects people to learn programming. We believe the 
 ## Things I've Built , 🔒Private 🌍Public
 | Project | Access | What it does |
 |---------|--------|--------------|
-| 🖥️ **Abhaal** | 🔒 | Desktop automation that learns by demonstration instead of programming. Runs 100% on your PC, fully offline. |
+| 🖥️ **Abhaal** | 🔒 | Desktop automation that learns by demonstration instead of programming. |
 | 🚀 **TeleDelivr AI** | 🔒 | Automates payments, Telegram access delivery, and member management. |
 | 📰 **Lio2** | 🔒 | News platform delivering concise 30-word summaries. |
 | 📊 **Meta Interest Finder** | 🌍 | MCP-compatible API for Meta Ads interests. |
