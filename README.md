@@ -10,13 +10,3 @@ Every automation tool today expects people to learn programming. We believe the 
 ---
 ## Currently Building
 - 🖥️ Abhaal - 🤖 Desktop Automation - 🔒 100% On-Device - 👁️ On-Device Vision (next)
----
-## Things I've Built - ing , 🔒Private 🌍Public
-| Project | Access | What it does |
-|---------|--------|--------------|
-| 🖥️ **Abhaal** | 🔒 | Desktop automation that learns by demonstration instead of programming. |
-| 🚀 **TeleDelivr AI** | 🔒 | Automates payments, Telegram access delivery, and member management. |
-| 📰 **Lio2** | 🔒 | News platform delivering concise 30-word summaries. |
-| 📊 **Meta Interest Finder** | 🌍 | MCP-compatible API for Meta Ads interests. |
-| 🎥 **Video Duration Calculator** | 🌍 | Browser-based MP4 video duration calculator. |
-| 🌐 **AI Website Builder** | 🌍  | Generate complete websites with AI. |
