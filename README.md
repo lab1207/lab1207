@@ -11,7 +11,7 @@ Every automation tool today expects people to learn programming. We believe the 
 ## Currently Building
 - 🖥️ Abhaal - 🤖 Desktop Automation - 🔒 100% On-Device - 👁️ On-Device Vision (next)
 ---
-## Things I've Built , 🔒Private 🌍Public
+## Things I've Built - ing , 🔒Private 🌍Public
 | Project | Access | What it does |
 |---------|--------|--------------|
 | 🖥️ **Abhaal** | 🔒 | Desktop automation that learns by demonstration instead of programming. |
