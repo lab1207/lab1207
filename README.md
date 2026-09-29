@@ -10,3 +10,6 @@ Every automation tool today expects people to learn programming. We believe the 
 ---
 ## Currently Building
 - 🖥️ Abhaal - 🤖 Desktop Automation - 🔒 100% On-Device - 👁️ On-Device Vision (next)
+---
+## Open Source
+Contributing to AI-agent and devtools repos: background agents, agent control planes, voice AI, LLM routers, desktop workspaces. Focus areas: small scoped fixes, CI hardening, bug reproductions with tests.
