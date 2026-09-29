@@ -13,3 +13,4 @@ Every automation tool today expects people to learn programming. We believe the 
 ---
 ## Open Source
 Contributing to AI-agent and devtools repos: background agents, agent control planes, voice AI, LLM routers, desktop workspaces. Focus areas: small scoped fixes, CI hardening, bug reproductions with tests.
+Pinned projects: [AI-Website-Builder](https://github.com/lab1207/AI-Website-Builder) · [Meta-Interest-Finder](https://github.com/lab1207/Meta-Interest-Finder)
